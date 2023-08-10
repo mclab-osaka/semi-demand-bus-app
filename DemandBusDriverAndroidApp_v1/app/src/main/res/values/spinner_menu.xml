@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_array">
+        <item>全ての予約</item>
+        <item>往路（8:30-9:00）</item>
+        <item>往路 (9:30-10:00)</item>
+        <item>往路（12:30-13:00）</item>
+        <item>復路（10:30-11:00）</item>
+        <item>復路（13:30-14:00）</item>
+        <item>復路（16:30-17:00）</item>
+    </string-array>
+</resources>

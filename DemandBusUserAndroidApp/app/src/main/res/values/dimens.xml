@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="container_margin">4dp</dimen>
+    <dimen name="recommend_message_margin_top">8dp</dimen>
+    <dimen name="recommend_message_size">32sp</dimen>
+    <dimen name="reservation_container_margin_top">32dp</dimen>
+    <dimen name="reservation_button_text_size">32sp</dimen>
+    <dimen name="reserved_bus_message_text_size">28sp</dimen>
+    <dimen name="reserved_bus_time_name_margin_left">8dp</dimen>
+    <dimen name="reserved_bus_time_name_margin_top">8dp</dimen>
+    <dimen name="reserved_bus_time_text_size">28sp</dimen>
+    <dimen name="reserved_bus_name_text_size">24sp</dimen>
+    <dimen name="cancel_button_text_size">24sp</dimen>
+    <dimen name="cancel_button_width">120dp</dimen>
+
+</resources>

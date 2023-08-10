@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">バスアプリ</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="going_reservation_button_text">行きのバスを予約する</string>
+    <string name="returning_reservation_button_text">帰りのバスを予約する</string>
+    <string name="returning_reservation_button_text_with_going">帰りのバスも予約する</string>
+    <string name="reserving_button_text">予約処理中です</string>
+    <string name="cancel_button_text">この予約をキャンセル</string>
+    <string name="canceling_button_text">キャンセル処理中です</string>
+</resources>

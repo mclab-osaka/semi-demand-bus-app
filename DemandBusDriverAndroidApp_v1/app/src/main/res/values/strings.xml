@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ドライバーアプリ</string>
+    <string name="title_list">予約一覧</string>
+    <string name="title_map">地図</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
